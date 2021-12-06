@@ -9,6 +9,8 @@
 
 ### Connect With Me 🤙
 
-[<img align="left" alt="furkanlebit | linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="furkanlebit | linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="furkanlebit | linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 [linkedin]: https://www.linkedin.com/in/furkanlebit7/
+[instagram]: https://www.instagram.com/furkanlebit7/
