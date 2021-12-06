@@ -9,4 +9,4 @@
 
 ### Connect With Me 🤙
 
-[<img align="left" alt="furkanlebit | linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg">][linkedin]
+[<img align="left" alt="furkanlebit | linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg"/>][linkedin]
