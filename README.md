@@ -10,6 +10,7 @@
 <br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=furkanlebit7&show_icons=true&theme=radical"/>
+<br/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanlebit7&layout=compact"/>
 
 
