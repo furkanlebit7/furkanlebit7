@@ -1,6 +1,6 @@
 ### Hi there I'm Furkan👋
 
-## I am a Software Engineering Student in Istanbul 👨‍🎓
+## I am a Software Engineering Student in Istanbul Sabahattin Zaim University👨‍🎓
 
 - 🔭I’m currently working on Fullstack Development
 - 🌱 I’m currently learning React and Spring
