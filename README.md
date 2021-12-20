@@ -4,6 +4,7 @@
 
 - 🔭I’m currently working on Fullstack Development
 - 🌱 I’m currently learning React and Spring
+- 👨‍💻 I'm currently in the Bootcamp Acceleration Program- 2021 🖤🖤🖤Patika🖤🖤🖤
 - 👻 What do I do: I am the Chairman of the IEEE Club Promotion and Design Committee of Sabahattin Zaim University, I am also the captain of the Sabahattin Zaim University Archery Team and I am Working at T3 Foundation as a volunteer Frontend Developer.
 - ⚡ Fun fact: I love archery and playing video games.
 
