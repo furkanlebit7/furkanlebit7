@@ -1,44 +1,45 @@
-### Hi there I'm Furkan👋
 
-## I am a Software Engineering Student in Istanbul Sabahattin Zaim University👨‍🎓
+## Hi there👋 , I'm Furkan 
 
-- 🔭I’m currently working on Fullstack Development
-- 🌱 I’m currently learning React and Spring
-- 👨‍💻 I'm currently in the Bootcamp Acceleration Program- 2021        🖤🖤[Patika.dev][patika]🖤🖤
-- 👻 What do I do: I am the Chairman of the IEEE Club Promotion and Design Committee of Sabahattin Zaim University, I am also the captain of the Sabahattin Zaim University Archery Team and I am Working at T3 Foundation as a part time Frontend Developer.
-- ⚡ Fun fact: I love archery and playing video games.
+|<img style="width: 600px" src="https://media2.giphy.com/media/7p11nMKLkV8xRPpfCu/giphy.gif?cid=790b7611b26749856a7acd63a279dda72e4c00d6cee878b7&rid=giphy.gif&ct=g">|*🔭I’m currently working on Fullstack Development</br></br>🌱 I’m currently learning React and Spring</br></br>👨‍💻 I'm currently in the Bootcamp Acceleration Program- 2021 🖤🖤[Patika.dev](https://app.patika.dev/furkanlebit7)🖤🖤</br></br>👻 What do I do: I am the Chairman of the IEEE Club Promotion and Design Committee of Sabahattin Zaim University, I am also the captain of the Sabahattin Zaim University Archery Team and I am Working at T3 Foundation as a part time Frontend Developer.</br></br>⚡ Fun fact: I love archery and playing video games.* 
+|-|-|
 
----
+<p align="center">
+ <a target="_blank" href="https://github.com/furkanlebit7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+ <a target="_blank" href="https://steamcommunity.com/id/furkanlebit7"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+ <a target="_blank" href="https://open.spotify.com/user/xv6g6i68y809t7n5ab1llljbd"><img  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a target="_blank" href="https://www.hackerrank.com/furkanlebitt7"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  </p>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/furkanlebit7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
+  <a target="_blank" href="https://www.instagram.com/furkanlebit7/"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a target="_blank" href="mailto:furkanlebitt7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-![Furkan Lebit's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkanlebit7&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanlebit7&layout=compact)](https://github.com/furkanlebit7)
+##  Hobbies ✌️
+
+|Coding|Gaming|Archery|Reading|Listening|
+|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 200px" src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47zeyf5oiqk0p15iq702y9wgs8bjn02rq94qzy7kxb&rid=giphy.gif&ct=g">|<img style="width: 200px" src="https://media2.giphy.com/media/f08cafueoCoRW/giphy.gif?cid=790b7611c9b17c67ac6071aa1eb30171ea8cec9f80d9d4c8&rid=giphy.gif&ct=g">| <img style="width: 200px" src="https://media1.giphy.com/media/1KQX01pm6oEIo/giphy.gif?cid=ecf05e47efxqx3cr8zfvx6ucalgeidsg3iv764m9wxag38ik&rid=giphy.gif&ct=g">|  <img style="width: 200px" src="https://media0.giphy.com/media/g2lH60ZcvUGL6/giphy.gif?cid=ecf05e47nfdp2q61ekanf2z9cyinkyvgmc5e61gw16f4bakv&rid=giphy.gif&ct=g">|<img style="width: 200px" src="https://media0.giphy.com/media/JnBpOpznNOC2c/giphy.gif?cid=ecf05e47sacmh2a03l4hke19w0sfpmyn8somth28l7520lh5&rid=giphy.gif&ct=g">
+
+## Languages & Tools 💪
+
+|Html|Css|Sass|Javascript|Typescript|React|Angular|PHP
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">|<img style="width: 100px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=790b761161ff3baa950f722c70f4bf99c0e0adef7ab15f94&rid=giphy.gif&ct=s">
+
+|Java|Spring Boot|SQL|Git|Github|VS Code
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 100px" src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg">|<img style="width: 100px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
 
 
+<span><img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=furkanlebit7&show_icons=true&locale=en" alt="furkanlebit7" /></span>
+<span><img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanlebit7&" alt="furkanlebit7" /></span>
+
+<span align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 69%" src="https://github-profile-trophy.vercel.app/?username=furkanlebit7" alt="furkanlebit7"/></a></span>
+<span align="right"><img style="width: 29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanlebit7&show_icons=true&locale=en&layout=compact" alt="furkanlebit7" /></span>
+  
+![snake gif](https://github.com/falovic/falovic/blob/output/github-contribution-grid-snake.gif)
 
 
-### Contact With Me 🤙
-
-[<img align="left" alt="furkanlebit | linkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="furkanlebit | Instagram"  width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/>][instagram]
-<a href="mailto:furkanlebitt7@gmail.com"><img align="left" alt="furkanlebit | outlook"  width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732223.png"/></a>
-
-[linkedin]: https://www.linkedin.com/in/furkanlebit7/
-[instagram]: https://www.instagram.com/furkanlebit7/
-[patika]:https://app.patika.dev/furkanlebit7
-
-<br/>
-
-### Languages and Tools 💻
-
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
-<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<img align="left" alt="spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="left" alt="figma" width="26px" src="https://img.icons8.com/color/48/000000/figma--v2.png"/>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=furkanlebit7&label=Profile%20views&color=0e75b6&style=flat" alt="furkanlebit7" /></p>
