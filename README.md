@@ -37,9 +37,7 @@
 
 
 
-
-<span align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 69%" src="https://github-profile-trophy.vercel.app/?username=furkanlebit7" alt="furkanlebit7"/></a></span>
-<span align="right"><img style="width: 29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanlebit7&show_icons=true&locale=en&layout=compact" alt="furkanlebit7" /></span>
+<span align="right"><img style="width: 33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanlebit7&show_icons=true&locale=en&layout=compact" alt="furkanlebit7" /></span>
   
 ![snake gif](https://github.com/furkanlebit7/furkanlebit7/blob/output/github-contribution-grid-snake.gif)
 
