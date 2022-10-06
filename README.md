@@ -19,23 +19,22 @@
 <span><img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=furkanlebit7&show_icons=true&locale=en" alt="furkanlebit7" /></span>
 <span><img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanlebit7&" alt="furkanlebit7" /></span>
 
-##  Hobbies ✌️
-
-|Coding|Gaming|Archery|Reading|Listening|
-|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47zeyf5oiqk0p15iq702y9wgs8bjn02rq94qzy7kxb&rid=giphy.gif&ct=g">|<img style="width: 200px" src="https://media2.giphy.com/media/f08cafueoCoRW/giphy.gif?cid=790b7611c9b17c67ac6071aa1eb30171ea8cec9f80d9d4c8&rid=giphy.gif&ct=g">| <img style="width: 200px" src="https://media1.giphy.com/media/1KQX01pm6oEIo/giphy.gif?cid=ecf05e47efxqx3cr8zfvx6ucalgeidsg3iv764m9wxag38ik&rid=giphy.gif&ct=g">|  <img style="width: 200px" src="https://media0.giphy.com/media/g2lH60ZcvUGL6/giphy.gif?cid=ecf05e47nfdp2q61ekanf2z9cyinkyvgmc5e61gw16f4bakv&rid=giphy.gif&ct=g">|<img style="width: 200px" src="https://media0.giphy.com/media/JnBpOpznNOC2c/giphy.gif?cid=ecf05e47sacmh2a03l4hke19w0sfpmyn8somth28l7520lh5&rid=giphy.gif&ct=g">
-
 ## Languages & Tools 💪
 
 |Html|Css|Sass|Javascript|Typescript|React|Angular|PHP
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">|<img style="width: 100px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=790b761161ff3baa950f722c70f4bf99c0e0adef7ab15f94&rid=giphy.gif&ct=s">
+|<img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">|<img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png">|<img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">|<img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">|<img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">|<img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
 
-|Java|Spring Boot|SQL|Git|Github|VS Code
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg">|<img style="width: 100px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
+|Java|Spring Boot|SQL|Git|Github|VS Code|Figma
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">|<img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">|<img style="width: 100px" src="https://www.lansweeper.com/wp-content/uploads/2018/05/ASSET-SOFTWARE-SQL-DATABASE.png">|<img style="width: 100px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png">|<img style="width: 100px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png">
 
 
+
+##  Hobbies ✌️
+
+|Coding|Gaming|Archery|Movies|Music|
+|:-:|:-:|:-:|:-:|:-:|
 
 <span align="right"><img style="width: 33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanlebit7&show_icons=true&locale=en&layout=compact" alt="furkanlebit7" /></span>
   
