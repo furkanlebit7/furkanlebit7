@@ -1,8 +1,8 @@
 
 ## Hi there👋 , I'm Furkan 
 
-|*🔭I’m currently working on Fullstack Development</br></br>🌱 I’m currently learning React and Spring</br></br>👨‍💻 I'm currently in the Bootcamp Acceleration Program- 2022 🖤🖤[Patika.dev](https://app.patika.dev/furkanlebit7)🖤🖤</br></br>👻 What do I do: I am the Chairman of the IEEE Club Promotion and Design Committee of Sabahattin Zaim University, I am also the captain of the Sabahattin Zaim University Archery Team and I am trying improve myself everyday in programming.</br></br>⚡ Fun fact: I love archery and playing video games.* 
-|-|-|
+|*🔭I’m currently working on Fullstack Development</br></br>🌱 I’m currently learning React and Spring</br></br>👨‍💻 I'm currently in the Bootcamp Acceleration Program- 2022 🖤🖤[Patika.dev](https://app.patika.dev/furkanlebit7)🖤🖤</br></br>👻 What do I do: I am the Chairman of the IEEE Club Promotion and Design Committee of Sabahattin Zaim University, I am also the captain of the Sabahattin Zaim University Archery Team and I am trying improve myself everyday in programming.</br></br>⚡ Fun fact: I love archery and playing video games.* |
+|-|
 
 <p align="center">
  <a target="_blank" href="https://github.com/furkanlebit7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
