@@ -16,6 +16,9 @@
  <a target="_blank" href="mailto:furkanlebitt7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<span><img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=furkanlebit7&show_icons=true&locale=en" alt="furkanlebit7" /></span>
+<span><img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanlebit7&" alt="furkanlebit7" /></span>
+
 ##  Hobbies ✌️
 
 |Coding|Gaming|Archery|Reading|Listening|
@@ -33,8 +36,7 @@
 |<img style="width: 100px" src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg">|<img style="width: 100px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
 
 
-<span><img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=furkanlebit7&show_icons=true&locale=en" alt="furkanlebit7" /></span>
-<span><img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanlebit7&" alt="furkanlebit7" /></span>
+
 
 <span align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 69%" src="https://github-profile-trophy.vercel.app/?username=furkanlebit7" alt="furkanlebit7"/></a></span>
 <span align="right"><img style="width: 29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanlebit7&show_icons=true&locale=en&layout=compact" alt="furkanlebit7" /></span>
