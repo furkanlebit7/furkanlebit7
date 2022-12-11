@@ -27,9 +27,27 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/bilgates-app">Bill Gates Money App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, (API Disabled Now)</td>
+      <td align="center">2022</td>
+     <td align="center"><a href="https://furkanlebit7-billgatesapp.netlify.app/">Live</a></td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/breaking-bad-app">Breaking Bad App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, React Router (API Disabled Now)</td>
+      <td align="center">2022</td>
+     <td align="center"><a href="https://furkanlebit7-breakingbadapp.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/contact-app">Contact App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Redux Entity Adapter, React Router</td>
+      <td align="center">2022</td>
+      <td align="center">-</td>
+    </tr>
    <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/covid19-tracker">Covid-19 Tracker</a></th>
-      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component (API Disabled Now)</td>
       <td align="center">2022</td>
       <td align="center"><a href="https://furkanlebit7-covid19-tracker.netlify.app/">Live</a></td>
     </tr>
