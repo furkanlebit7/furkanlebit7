@@ -118,7 +118,7 @@
       <td align="center">-</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/Angular-denemeProject-movie-app">Movie App (Deneme)</a></th>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Angular-denemeProject-movie-app">Movie App (Test)</a></th>
       <td>Angular, Typescript, Bootstrap</td>
       <td align="center">2021</td>
       <td align="center"><a href="https://furkanlebit7-movie-app-angular.netlify.app">Live</a></td>
