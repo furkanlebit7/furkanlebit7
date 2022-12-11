@@ -16,6 +16,75 @@
  <a target="_blank" href="mailto:furkanlebitt7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+## Projects
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Repo</th>
+      <th scope="col">Technologies and tools</th>
+      <th scope="col">Year</th>
+      <th scope="col">Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <tr>
+     <th scope="row"><a href="https://github.com/furkanlebit7/Bubble-Trouble-Game">Bubble Trouble Game </a></th>
+      <td>HTML, CSS, Javascript, p5.js</td>
+      <td align="center">2021</td>
+      <td align="center"><a href="https://furkanlebit7-bubble-trouble-game.netlify.app">Live</a></td>
+    </tr>
+       <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Veri-Taban-Sistemleri-Odev">Kariyer Sitesi</a></th>
+      <td>HTML, CSS, Javascript, PHP, MySQL, Bootstrap </td>
+      <td align="center">2021</td>
+      <td align="center">-</td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Angular-denemeProject-movie-app">Movie App (Deneme)</a></th>
+      <td>Angular, Typescript, Bootstrap</td>
+      <td align="center">2021</td>
+      <td align="center"><a href="https://furkanlebit7-movie-app-angular.netlify.app">Live</a></td>
+    </tr>
+    <tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7?tab=repositories">HRMS Backend</a></th>
+      <td>Spring Boot, Java, Maven, IntelliJ Idea, Postman, KPSPublic, Hibernate, PostgreSQL</td>
+      <td align="center">2020</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/HRMS_Front-End">HRMS Frontend</a></th>
+      <td>React, Redux, Bootstrap, CSS </td>
+      <td align="center">2020</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Healthness-website-Front-End">Healthness Website</a></th>
+      <td>HTML, CSS, Javascript, PHP, Bootstrap, MySql</td>
+      <td align="center">2020</td>
+      <td align="center">-</td>
+    </tr>
+     <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Slack-Clone-Challange">Slack Clone</a></th>
+      <td>React, Firebase, Styled-Component, Material-UI</td>
+      <td align="center">2020</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Github-Finder">Github Finder</a></th>
+      <td>React, React-Context, React-Router, React-Hook, Bootstrap</td>
+      <td align="center">2020</td>
+      <td align="center">-</td>
+    </tr>
+    
+  </tbody>
+</table>
+
+<br>
+
+### Statistics
+
 <span><img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=furkanlebit7&show_icons=true&locale=en" alt="furkanlebit7" /></span>
 <span><img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanlebit7&" alt="furkanlebit7" /></span>
 
