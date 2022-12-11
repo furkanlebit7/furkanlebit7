@@ -28,6 +28,36 @@
   </thead>
   <tbody>
    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/covid19-tracker">Covid-19 Tracker</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td align="center">2022</td>
+      <td align="center"><a href="https://furkanlebit7-covid19-tracker.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/markdown-preiwer">Markdown Previewer</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td align="center">2022</td>
+      <td align="center"><a href="https://furkanlebit7-markdownpreviewer.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/note-app">Note App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Bootstrap, Redis, Express, Dotenv, NanoId</td>
+      <td align="center">2022</td>
+      <td align="center">-</td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/suffergame">Memory Game</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td align="center">2022</td>
+      <td align="center"><a href="https://furkanlebit7-memorygame.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/text-generator">Text Generator</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td align="center">2022</td>
+      <td align="center"><a href="https://furkanlebit7-textgeneratorapp.netlify.app/">Live</a></td>
+    </tr>
+   <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/todo-app">Todo App</a></th>
       <td>React, React Hook, Redux, Redux Toolkit, Bootstrap, Redis, Express, Dotenv</td>
       <td align="center">2022</td>
@@ -95,7 +125,7 @@
     </tr>
      <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7/Slack-Clone-Challange">Slack Clone</a></th>
-      <td>React, React Hook, Firebase, Styled-Component, Material-UI</td>
+      <td>React, React Hook, Firebase, Styled Component, Material-UI</td>
       <td align="center">2021</td>
       <td align="center">-</td>
     </tr>
