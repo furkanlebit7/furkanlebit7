@@ -28,53 +28,75 @@
   </thead>
   <tbody>
    <tr>
-      <tr>
-     <th scope="row"><a href="https://github.com/furkanlebit7/Bubble-Trouble-Game">Bubble Trouble Game </a></th>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/todo-app">Todo App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Bootstrap, Redis, Express, Dotenv</td>
+      <td align="center">2022</td>
+      <td align="center">-</td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/livebackground">Live Background</a></th>
+      <td>React, React Hook, React Context, Bootstrap, Redis, Express, Socket.io</td>
+      <td align="center">2022</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/livechat">Live Chat</a></th>
+      <td>React, React Hook, React Context, Bootstrap, Redis, Express, Socket.io</td>
+      <td align="center">2022</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/reactodev2todoapp">Todo App</a></th>
+      <td>React, React Hook, Bootstrap, CSS</td>
+      <td align="center">2022</td>
+      <td align="center"><a href="https://furkanlebit7-todo-app.netlify.app/">Live</a></td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Github-Finder">Github Finder</a></th>
+      <td>React, React Hook, Redux, Bootstrap, GithubAPI</td>
+      <td align="center">2021</td>
+      <td align="center"><a href="https://furkanlebit7-github-finder.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Bubble-Trouble-Game">Bubble Trouble Game </a></th>
       <td>HTML, CSS, Javascript, p5.js</td>
       <td align="center">2021</td>
       <td align="center"><a href="https://furkanlebit7-bubble-trouble-game.netlify.app">Live</a></td>
     </tr>
-       <tr>
+    <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7/Veri-Taban-Sistemleri-Odev">Kariyer Sitesi</a></th>
       <td>HTML, CSS, Javascript, PHP, MySQL, Bootstrap </td>
       <td align="center">2021</td>
       <td align="center">-</td>
     </tr>
-   <tr>
+    <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7/Angular-denemeProject-movie-app">Movie App (Deneme)</a></th>
       <td>Angular, Typescript, Bootstrap</td>
       <td align="center">2021</td>
       <td align="center"><a href="https://furkanlebit7-movie-app-angular.netlify.app">Live</a></td>
     </tr>
     <tr>
-    <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7?tab=repositories">HRMS Backend</a></th>
       <td>Spring Boot, Java, Maven, IntelliJ Idea, Postman, KPSPublic, Hibernate, PostgreSQL</td>
-      <td align="center">2020</td>
+      <td align="center">2021</td>
       <td align="center">-</td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7/HRMS_Front-End">HRMS Frontend</a></th>
-      <td>React, Redux, Bootstrap, CSS </td>
-      <td align="center">2020</td>
+      <td>React, React Hook, Redux, Bootstrap, CSS </td>
+      <td align="center">2021</td>
       <td align="center">-</td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7/Healthness-website-Front-End">Healthness Website</a></th>
       <td>HTML, CSS, Javascript, PHP, Bootstrap, MySql</td>
-      <td align="center">2020</td>
+      <td align="center">2021</td>
       <td align="center">-</td>
     </tr>
      <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7/Slack-Clone-Challange">Slack Clone</a></th>
-      <td>React, Firebase, Styled-Component, Material-UI</td>
-      <td align="center">2020</td>
-      <td align="center">-</td>
-    </tr>
-    <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/Github-Finder">Github Finder</a></th>
-      <td>React, React-Context, React-Router, React-Hook, Bootstrap</td>
-      <td align="center">2020</td>
+      <td>React, React Hook, Firebase, Styled-Component, Material-UI</td>
+      <td align="center">2021</td>
       <td align="center">-</td>
     </tr>
     
