@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/bilgates-app">Bill Gates Money App</a></th>
-      <td>React, React Hook, Redux, Redux Toolkit, (API Disabled Now)</td>
+      <td>React, React Hook, Redux, Redux Toolkit</td>
       <td align="center">2022</td>
      <td align="center"><a href="https://furkanlebit7-billgatesapp.netlify.app/">Live</a></td>
     </tr>
