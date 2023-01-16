@@ -29,7 +29,7 @@
   <tbody>
    <tr>
       <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/weather-app">Weather App</a></th>
-      <td>React, React Hook, Redux, Redux Toolkit, Moment</td>
+      <td>React, React Hook, Redux, Redux Toolkit, Momentjs, Tailwind</td>
       <td align="center">2022</td>
      <td align="center"><a href="https://furkanlebit7-weatherapp.netlify.app/">Live</a></td>
     </tr>
