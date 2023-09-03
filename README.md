@@ -15,27 +15,168 @@
  <a target="_blank" href="mailto:furkanlebitt7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## Hobbies ✌️
+## Projects
 
-|                                                                                Coding                                                                                |                                                                             Gaming                                                                              |                                                                             Archery                                                                             |                                                                             Reading                                                                             |                                                                            Listening                                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img style="width: 200px" src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47zeyf5oiqk0p15iq702y9wgs8bjn02rq94qzy7kxb&rid=giphy.gif&ct=g"> | <img style="width: 200px" src="https://media2.giphy.com/media/f08cafueoCoRW/giphy.gif?cid=790b7611c9b17c67ac6071aa1eb30171ea8cec9f80d9d4c8&rid=giphy.gif&ct=g"> | <img style="width: 200px" src="https://media1.giphy.com/media/1KQX01pm6oEIo/giphy.gif?cid=ecf05e47efxqx3cr8zfvx6ucalgeidsg3iv764m9wxag38ik&rid=giphy.gif&ct=g"> | <img style="width: 200px" src="https://media0.giphy.com/media/g2lH60ZcvUGL6/giphy.gif?cid=ecf05e47nfdp2q61ekanf2z9cyinkyvgmc5e61gw16f4bakv&rid=giphy.gif&ct=g"> | <img style="width: 200px" src="https://media0.giphy.com/media/JnBpOpznNOC2c/giphy.gif?cid=ecf05e47sacmh2a03l4hke19w0sfpmyn8somth28l7520lh5&rid=giphy.gif&ct=g"> |
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Repo</th>
+      <th scope="col">Technologies and tools</th>
+      <th scope="col">Year</th>
+      <th scope="col">Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/weather-app">Weather App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Momentjs, Tailwind</td>
+      <td align="center">2022</td>
+     <td align="center"><a href="https://furkanlebit7-weatherapp.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/bilgates-app">Bill Gates Money App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit</td>
+      <td align="center">2022</td>
+     <td align="center"><a href="https://furkanlebit7-billgatesapp.netlify.app/">Live</a></td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/breaking-bad-app">Breaking Bad App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, React Router (API Disabled Now)</td>
+      <td align="center">2022</td>
+     <td align="center"><a href="https://furkanlebit7-breakingbadapp.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/contact-app">Contact App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Redux Entity Adapter, React Router</td>
+      <td align="center">2022</td>
+      <td align="center">-</td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/covid19-tracker">Covid-19 Tracker</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component (API Disabled Now)</td>
+      <td align="center">2022</td>
+      <td align="center"><a href="https://furkanlebit7-covid19-tracker.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/markdown-preiwer">Markdown Previewer</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td align="center">2022</td>
+      <td align="center"><a href="https://furkanlebit7-markdownpreviewer.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/note-app">Note App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Bootstrap, Redis, Express, Dotenv, NanoId</td>
+      <td align="center">2022</td>
+      <td align="center">-</td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/suffergame">Memory Game</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td align="center">2022</td>
+      <td align="center"><a href="https://furkanlebit7-memorygame.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/text-generator">Text Generator</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td align="center">2022</td>
+      <td align="center"><a href="https://furkanlebit7-textgeneratorapp.netlify.app/">Live</a></td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/todo-app">Todo App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Bootstrap, Redis, Express, Dotenv</td>
+      <td align="center">2022</td>
+      <td align="center">-</td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/livebackground">Live Background</a></th>
+      <td>React, React Hook, React Context, Bootstrap, Redis, Express, Socket.io</td>
+      <td align="center">2022</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/livechat">Live Chat</a></th>
+      <td>React, React Hook, React Context, Bootstrap, Redis, Express, Socket.io</td>
+      <td align="center">2022</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/reactodev2todoapp">Todo App</a></th>
+      <td>React, React Hook, Bootstrap, CSS</td>
+      <td align="center">2022</td>
+      <td align="center"><a href="https://furkanlebit7-todo-app.netlify.app/">Live</a></td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Github-Finder">Github Finder</a></th>
+      <td>React, React Hook, Redux, Bootstrap, GithubAPI</td>
+      <td align="center">2021</td>
+      <td align="center"><a href="https://furkanlebit7-github-finder.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Bubble-Trouble-Game">Bubble Trouble Game </a></th>
+      <td>HTML, CSS, Javascript, p5.js</td>
+      <td align="center">2021</td>
+      <td align="center"><a href="https://furkanlebit7-bubble-trouble-game.netlify.app">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Veri-Taban-Sistemleri-Odev">Kariyer Sitesi</a></th>
+      <td>HTML, CSS, Javascript, PHP, MySQL, Bootstrap </td>
+      <td align="center">2021</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Angular-denemeProject-movie-app">Movie App (Test)</a></th>
+      <td>Angular, Typescript, Bootstrap</td>
+      <td align="center">2021</td>
+      <td align="center"><a target="_blank" href="https://furkanlebit7-movie-app-angular.netlify.app">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7?tab=repositories">HRMS Backend</a></th>
+      <td>Spring Boot, Java, Maven, IntelliJ Idea, Postman, KPSPublic, Hibernate, PostgreSQL</td>
+      <td align="center">2021</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/HRMS_Front-End">HRMS Frontend</a></th>
+      <td>React, React Hook, Redux, Bootstrap, CSS </td>
+      <td align="center">2021</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Healthness-website-Front-End">Healthness Website</a></th>
+      <td>HTML, CSS, Javascript, PHP, Bootstrap, MySql</td>
+      <td align="center">2021</td>
+      <td align="center">-</td>
+    </tr>
+     <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Slack-Clone-Challange">Slack Clone</a></th>
+      <td>React, React Hook, Firebase, Styled Component, Material-UI</td>
+      <td align="center">2021</td>
+      <td align="center">-</td>
+    </tr>
+    
+  </tbody>
+</table>
 
-## Languages & Tools 💪
+<br>
 
-|                                            Html                                             |                                             Css                                             |                                                                     Sass                                                                      |                                         Javascript                                          |                                                                       Typescript                                                                        |                                            React                                            |                                           Angular                                           |                                                                                 PHP                                                                                  |
-| :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"> | <img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"> | <img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"> | <img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"> | <img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> | <img style="width: 100px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"> | <img style="width: 100px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif"> | <img style="width: 100px" src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=790b761161ff3baa950f722c70f4bf99c0e0adef7ab15f94&rid=giphy.gif&ct=s"> |
-
-|                                                  Java                                                  |                                              Spring Boot                                               |                                                                                 SQL                                                                                  |                                             Git                                             |                                           Github                                            |                                           VS Code                                           |
-| :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-| <img style="width: 100px" src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg"> | <img style="width: 100px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png"> | <img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s"> | <img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"> | <img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"> | <img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"> |
-
-> > > > > > > 62c7f329e5911ecf022dc0d7903fd9ad1bd21a92
+### Statistics
 
 <span><img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=furkanlebit7&show_icons=true&locale=en" alt="furkanlebit7" /></span>
 <span><img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanlebit7&" alt="furkanlebit7" /></span>
 
+## Languages & Tools 💪
+
+|                                                                      Html                                                                       |                                                                      Css                                                                      |                                                                     Sass                                                                      |                                                                         Javascript                                                                          |                                                                       Typescript                                                                        |                                                                       React                                                                       |                                                                        Angular                                                                        |                                                                      PHP                                                                      |
+| :---------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> | <img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> | <img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"> | <img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | <img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> | <img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> | <img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> | <img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> |
+
+|                                                                      Java                                                                       |                                                                          Spring Boot                                                                          |                                                          SQL                                                           |                                             Git                                             |                                        Github                                        |                                                                                 VS Code                                                                                 |                                                 Figma                                                 |
+| :---------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+| <img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"> | <img style="width: 100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"> | <img style="width: 100px" src="https://www.lansweeper.com/wp-content/uploads/2018/05/ASSET-SOFTWARE-SQL-DATABASE.png"> | <img style="width: 100px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"> | <img style="width: 100px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"> | <img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> | <img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png"> |
+
+> > > > > > > 62c7f329e5911ecf022dc0d7903fd9ad1bd21a92
+
+<<<<<<< HEAD
 <span align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 69%" src="https://github-profile-trophy.vercel.app/?username=furkanlebit7" alt="furkanlebit7"/></a></span>
 <span align="right"><img style="width: 29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanlebit7&show_icons=true&locale=en&layout=compact" alt="furkanlebit7" /></span>
 <<<<<<< HEAD
@@ -44,7 +185,18 @@
 
 =======
 
-![snake gif](https://github.com/falovic/falovic/blob/output/github-contribution-grid-snake.gif)
+# ![snake gif](https://github.com/falovic/falovic/blob/output/github-contribution-grid-snake.gif)
+
+## Hobbies ✌️
+
+| Coding | Gaming | Archery | Movies | Music |
+| :----: | :----: | :-----: | :----: | :---: |
+
+<span align="right"><img style="width: 33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanlebit7&show_icons=true&locale=en&layout=compact" alt="furkanlebit7" /></span>
+
+![snake gif](https://github.com/furkanlebit7/furkanlebit7/blob/output/github-contribution-grid-snake.gif)
+
+> > > > > > > 5d70e356245dcfad6a7bba1e6d0c91eb34e4e79e
 
 > > > > > > > 62c7f329e5911ecf022dc0d7903fd9ad1bd21a92
 
