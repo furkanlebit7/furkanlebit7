@@ -1,7 +1,7 @@
 ## Hi there👋 , I'm Furkan
 
-| <img style="width: 600px" src="https://media2.giphy.com/media/7p11nMKLkV8xRPpfCu/giphy.gif?cid=790b7611b26749856a7acd63a279dda72e4c00d6cee878b7&rid=giphy.gif&ct=g"> | _🔭I’m currently working on Fullstack Development</br></br>🌱 I’m currently learning React and Spring</br></br>👨‍💻 I'm currently in the Bootcamp Acceleration Program- 2021 🖤🖤[Patika.dev](https://app.patika.dev/furkanlebit7)🖤🖤</br></br>👻 What do I do: I am the Chairman of the IEEE Club Promotion and Design Committee of Sabahattin Zaim University, I am also the captain of the Sabahattin Zaim University Archery Team and I am Working at T3 Foundation as a part time Frontend Developer.</br></br>⚡ Fun fact: I love archery and playing video games._ |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img style="width: 600px" src="https://media2.giphy.com/media/7p11nMKLkV8xRPpfCu/giphy.gif?cid=790b7611b26749856a7acd63a279dda72e4c00d6cee878b7&rid=giphy.gif&ct=g"> | _🔭I’m currently working on Fullstack Development</br></br>🌱 I’m currently learning Next.js and Spring</br></br>👻 What do I do: I graduated from Istanbul Sabahattin University with a degree in Software Engineering in 2023, and I have been actively working on Fullstack web development.</br></br>⚡ Fun fact: I love archery and playing video games._ |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <p align="center">
  <a target="_blank" href="https://github.com/furkanlebit7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -31,12 +31,21 @@
 | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
 | <img style="width: 100px" src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg"> | <img style="width: 100px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png"> | <img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s"> | <img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"> | <img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"> | <img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"> |
 
+> > > > > > > 62c7f329e5911ecf022dc0d7903fd9ad1bd21a92
+
 <span><img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=furkanlebit7&show_icons=true&locale=en" alt="furkanlebit7" /></span>
 <span><img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanlebit7&" alt="furkanlebit7" /></span>
 
 <span align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 69%" src="https://github-profile-trophy.vercel.app/?username=furkanlebit7" alt="furkanlebit7"/></a></span>
 <span align="right"><img style="width: 29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanlebit7&show_icons=true&locale=en&layout=compact" alt="furkanlebit7" /></span>
+<<<<<<< HEAD
 
 ![snake gif](https://github.com/falovic/falovic/blob/output/github-contribution-grid-snake.gif)
+
+=======
+
+![snake gif](https://github.com/falovic/falovic/blob/output/github-contribution-grid-snake.gif)
+
+> > > > > > > 62c7f329e5911ecf022dc0d7903fd9ad1bd21a92
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furkanlebit7&label=Profile%20views&color=0e75b6&style=flat" alt="furkanlebit7" /></p>
