@@ -1,15 +1,13 @@
-Hi 👋 My name is Furkan
-==============================================================================================================================
+# Hi 👋 My name is Furkan
 
-Fullstack Developer
--------------------
+## Fullstack Developer
 
 I graduated from Istanbul Sabahattin University with a degree in Software Engineering in 2023, and I have been actively working on Fullstack web development.
 
-* 🌍  I'm based in İstanbul
-* ✉️  You can contact me at [furkanlebitt7@gmail.com](mailto:furkanlebitt7@gmail.com)
-* 🧠  I'm learning Nodejs
-* ⚡  I love archery and playing video games.
+- 🌍 I'm based in İstanbul
+- ✉️ You can contact me at [furkanlebitt7@gmail.com](mailto:furkanlebitt7@gmail.com)
+- 🧠 I'm learning Nodejs
+- ⚡ I love archery and playing video games.
 
 ### Socials
 
@@ -29,137 +27,115 @@ src="https://img.shields.io/github/followers/furkanlebit7?logo=github&style=for-
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">Repo</th>
+      <th scope="col">Repository</th>
       <th scope="col">Technologies and tools</th>
-      <th scope="col">Year</th>
       <th scope="col">Demo</th>
     </tr>
   </thead>
   <tbody>
    <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/weather-app">Weather App</a></th>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/weather-app" target="_blank">Weather App</a></th>
       <td>React, React Hook, Redux, Redux Toolkit, Momentjs, Tailwind</td>
-      <td align="center">2022</td>
-     <td align="center"><a href="https://furkanlebit7-weatherapp.netlify.app/">Live</a></td>
+     <td align="center"><a href="https://furkanlebit7-weatherapp.netlify.app/" target="_blank">Live</a></td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/bilgates-app">Bill Gates Money App</a></th>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/bilgates-app" target="_blank">Bill Gates Money App</a></th>
       <td>React, React Hook, Redux, Redux Toolkit</td>
-      <td align="center">2022</td>
-     <td align="center"><a href="https://furkanlebit7-billgatesapp.netlify.app/">Live</a></td>
-    </tr>
-   <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/breaking-bad-app">Breaking Bad App</a></th>
-      <td>React, React Hook, Redux, Redux Toolkit, React Router (API Disabled Now)</td>
-      <td align="center">2022</td>
-     <td align="center"><a href="https://furkanlebit7-breakingbadapp.netlify.app/">Live</a></td>
+     <td align="center"><a href="https://furkanlebit7-billgatesapp.netlify.app/" target="_blank">Live</a></td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/contact-app">Contact App</a></th>
-      <td>React, React Hook, Redux, Redux Toolkit, Redux Entity Adapter, React Router</td>
-      <td align="center">2022</td>
-      <td align="center">-</td>
-    </tr>
-   <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/covid19-tracker">Covid-19 Tracker</a></th>
-      <td>React, React Hook, Redux, Redux Toolkit, Styled Component (API Disabled Now)</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://furkanlebit7-covid19-tracker.netlify.app/">Live</a></td>
-    </tr>
-    <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/markdown-preiwer">Markdown Previewer</a></th>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/suffergame" target="_blank">Memory Game</a></th>
       <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://furkanlebit7-markdownpreviewer.netlify.app/">Live</a></td>
+      <td align="center"><a href="https://furkanlebit7-memorygame.netlify.app/" target="_blank">Live</a></td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/note-app">Note App</a></th>
-      <td>React, React Hook, Redux, Redux Toolkit, Bootstrap, Redis, Express, Dotenv, NanoId</td>
-      <td align="center">2022</td>
-      <td align="center">-</td>
-    </tr>
-   <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/suffergame">Memory Game</a></th>
-      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://furkanlebit7-memorygame.netlify.app/">Live</a></td>
-    </tr>
-    <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/text-generator">Text Generator</a></th>
-      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://furkanlebit7-textgeneratorapp.netlify.app/">Live</a></td>
-    </tr>
-   <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/todo-app">Todo App</a></th>
-      <td>React, React Hook, Redux, Redux Toolkit, Bootstrap, Redis, Express, Dotenv</td>
-      <td align="center">2022</td>
-      <td align="center">-</td>
-    </tr>
-   <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/livebackground">Live Background</a></th>
-      <td>React, React Hook, React Context, Bootstrap, Redis, Express, Socket.io</td>
-      <td align="center">2022</td>
-      <td align="center">-</td>
-    </tr>
-    <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/livechat">Live Chat</a></th>
-      <td>React, React Hook, React Context, Bootstrap, Redis, Express, Socket.io</td>
-      <td align="center">2022</td>
-      <td align="center">-</td>
-    </tr>
-    <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/reactodev2todoapp">Todo App</a></th>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/reactodev2todoapp" target="_blank">Todo App</a></th>
       <td>React, React Hook, Bootstrap, CSS</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://furkanlebit7-todo-app.netlify.app/">Live</a></td>
+      <td align="center"><a href="https://furkanlebit7-todo-app.netlify.app/" target="_blank">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Github-Finder" target="_blank">Github Finder</a></th>
+      <td>React, React Hook, Redux, Bootstrap, GithubAPI</td>
+      <td align="center"><a href="https://furkanlebit7-github-finder.netlify.app/" target="_blank">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/text-generator" target="_blank">Text Generator</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td align="center"><a href="https://furkanlebit7-textgeneratorapp.netlify.app/" target="_blank">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/markdown-preiwer" target="_blank">Markdown Previewer</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td align="center"><a href="https://furkanlebit7-markdownpreviewer.netlify.app/" target="_blank">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Bubble-Trouble-Game" target="_blank">Bubble Trouble Game </a></th>
+      <td>HTML, CSS, Javascript, p5.js</td>
+      <td align="center"><a href="https://furkanlebit7-bubble-trouble-game.netlify.app" target="_blank">Live</a></td>
+    </tr>
+     <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/HRMS_Back-End" target="_blank">HRMS Backend</a></th>
+      <td>Spring Boot, Java, Maven, IntelliJ Idea, Postman, KPSPublic, Hibernate, PostgreSQL</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/HRMS_Front-End" target="_blank">HRMS Frontend</a></th>
+      <td>React, React Hook, Redux, Bootstrap, CSS </td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/livechat" target="_blank">Live Chat</a></th>
+      <td>React, React Hook, React Context, Bootstrap, Redis, Express, Socket.io</td>
+      <td align="center">-</td>
+    </tr> 
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/breaking-bad-app" target="_blank">Breaking Bad App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, React Router</td>
+     <td align="center">-</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/contact-app" target="_blank">Contact App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Redux Entity Adapter, React Router</td>
+      <td align="center">-</td>
     </tr>
    <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/Github-Finder">Github Finder</a></th>
-      <td>React, React Hook, Redux, Bootstrap, GithubAPI</td>
-      <td align="center">2021</td>
-      <td align="center"><a href="https://furkanlebit7-github-finder.netlify.app/">Live</a></td>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/covid19-tracker" target="_blank">Covid-19 Tracker</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Styled Component</td>
+      <td align="center">-</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/Bubble-Trouble-Game">Bubble Trouble Game </a></th>
-      <td>HTML, CSS, Javascript, p5.js</td>
-      <td align="center">2021</td>
-      <td align="center"><a href="https://furkanlebit7-bubble-trouble-game.netlify.app">Live</a></td>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/note-app" target="_blank">Note App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Bootstrap, Redis, Express, Dotenv, NanoId</td>
+      <td align="center">-</td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REDUX/todo-app" target="_blank">Todo App</a></th>
+      <td>React, React Hook, Redux, Redux Toolkit, Bootstrap, Redis, Express, Dotenv</td>
+      <td align="center">-</td>
+    </tr>
+   <tr>
+      <th scope="row"><a href="https://github.com/furkanlebit7/kodluyoruzilkrepo/tree/main/REACT/livebackground" target="_blank">Live Background</a></th>
+      <td>React, React Hook, React Context, Bootstrap, Redis, Express, Socket.io</td>
+      <td align="center">-</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/Veri-Taban-Sistemleri-Odev">Kariyer Sitesi</a></th>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Veri-Taban-Sistemleri-Odev" target="_blank">Kariyer Sitesi</a></th>
       <td>HTML, CSS, Javascript, PHP, MySQL, Bootstrap </td>
-      <td align="center">2021</td>
       <td align="center">-</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/Angular-denemeProject-movie-app">Movie App (Test)</a></th>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Angular-denemeProject-movie-app" target="_blank">Movie App (Test)</a></th>
       <td>Angular, Typescript, Bootstrap</td>
-      <td align="center">2021</td>
-      <td align="center"><a target="_blank" href="https://furkanlebit7-movie-app-angular.netlify.app">Live</a></td>
-    </tr>
-    <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7?tab=repositories">HRMS Backend</a></th>
-      <td>Spring Boot, Java, Maven, IntelliJ Idea, Postman, KPSPublic, Hibernate, PostgreSQL</td>
-      <td align="center">2021</td>
       <td align="center">-</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/HRMS_Front-End">HRMS Frontend</a></th>
-      <td>React, React Hook, Redux, Bootstrap, CSS </td>
-      <td align="center">2021</td>
-      <td align="center">-</td>
-    </tr>
-    <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/Healthness-website-Front-End">Healthness Website</a></th>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Healthness-website-Front-End" target="_blank">Healthness Website</a></th>
       <td>HTML, CSS, Javascript, PHP, Bootstrap, MySql</td>
-      <td align="center">2021</td>
       <td align="center">-</td>
     </tr>
      <tr>
-      <th scope="row"><a href="https://github.com/furkanlebit7/Slack-Clone-Challange">Slack Clone</a></th>
+      <th scope="row"><a href="https://github.com/furkanlebit7/Slack-Clone-Challange" target="_blank">Slack Clone</a></th>
       <td>React, React Hook, Firebase, Styled Component, Material-UI</td>
-      <td align="center">2021</td>
       <td align="center">-</td>
     </tr>
     
@@ -167,7 +143,6 @@ src="https://img.shields.io/github/followers/furkanlebit7?logo=github&style=for-
 </table>
 
 <br>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkanlebit7/furkanlebit7/output/github-contribution-grid-snake-dark.svg">
@@ -184,10 +159,5 @@ src="https://img.shields.io/github/followers/furkanlebit7?logo=github&style=for-
 <a href="http://www.github.com/furkanlebit7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=furkanlebit7&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/furkanlebit7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanlebit7&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furkanlebit7&label=Profile%20views&color=0e75b6&style=flat" alt="furkanlebit7" /></p>
