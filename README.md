@@ -6,6 +6,7 @@ I graduated from Istanbul Sabahattin University with a degree in Software Engine
 
 - 🌍 I'm based in İstanbul, Turkey
 - ✉️ You can contact me at [furkanlebitt7@gmail.com](mailto:furkanlebitt7@gmail.com)
+- 📄 You can reach my CV from [Drive](https://drive.google.com/file/d/1icqzVRZL2rQGpnM7cBDC2GHPWgzuewGt/view?usp=sharing)
 - 🧠 I'm learning Nodejs
 - 🤝 I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 - ⚡ I love archery and playing video games.
